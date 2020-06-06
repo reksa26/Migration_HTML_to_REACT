@@ -9,7 +9,7 @@ const Todo = props => {
   );
 };
 
-Todo.prototype = {
+Todo.proptypes = {
   text: PropTypes.string.isRequired
 };
 

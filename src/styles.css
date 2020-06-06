@@ -102,14 +102,15 @@ html {
 .add-input {
   background: unset;
   border: unset;
-  padding: 0 64px;
+  padding: 0 19px;
   flex: 1;
 
   border-bottom: 1px solid var(--main-red-color);
   outline: unset;
 
-  font-family: "Permanent Marker", sans-serif;
-  font-size: 1rem;
+  font-family: "Bellota", sans-serif;
+  font-size: 1.8rem;
+  font: bold;
   text-transform: lowercase;
 }
 
